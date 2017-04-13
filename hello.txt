@@ -1,2 +1,2 @@
-Hello, this is my first git file.
+123
 No,this is my second commit.
